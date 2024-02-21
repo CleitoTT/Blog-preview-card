@@ -13,7 +13,7 @@ This is a small challenge of the [Frontend Mentor](https://www.frontendmentor.io
 
 
 ### Links
-
+Site: https://cleitott.github.io/Blog-preview-card/
 
 
 ## Acknowledgments
